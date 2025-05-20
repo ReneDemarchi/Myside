@@ -18,7 +18,7 @@ Este script utiliza Selenium e Pandas para navegar pelas páginas de anúncios, 
 
 1. **Clone o repositório**  
    ```
-   git clone https://github.com/usuario/meu-repo.git
+   https://github.com/ReneDemarchi/Myside.git
 2. **Instalar dependencias**
     ```
     pip install -r requirements.txt
