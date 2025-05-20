@@ -12,8 +12,7 @@ Este script utiliza Selenium e Pandas para navegar pelas páginas de anúncios, 
 ## ⚙️ Pré-requisitos
 
 - Python 3.7 ou superior  
-- Google Chrome instalado  
-- ChromeDriver compatível com a versão do Chrome  
+- Google Chrome instalado
 
 ## 🚀 Instalação
 
